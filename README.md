@@ -1,4 +1,4 @@
-# Weather App Flask Server
+# Weather Flask Server
 This is a straightforward flask RESTful server.
 
 ## Running locally via Flask development server
